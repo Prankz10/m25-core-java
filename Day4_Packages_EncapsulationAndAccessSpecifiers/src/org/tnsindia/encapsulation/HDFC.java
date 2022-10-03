@@ -12,5 +12,6 @@ public class HDFC {
 	public void setPin_no(int pin_no) {
 		this.pin_no = pin_no;
 	}
+
 	
 }
