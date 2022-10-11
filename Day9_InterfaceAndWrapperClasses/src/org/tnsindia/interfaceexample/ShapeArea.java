@@ -18,6 +18,6 @@ public class ShapeArea implements Area
 		Scanner s=new Scanner(System.in);
 		System.out.print("Enter the side of square: ");
 				double side=s.nextDouble();
-				System.out.println("The area of square is" +side*side);
+				System.out.println("The area of square is: " +side*side);
 	}
 }
