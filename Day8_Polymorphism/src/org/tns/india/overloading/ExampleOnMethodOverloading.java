@@ -1,7 +1,7 @@
 package org.tns.india.overloading;
 
 class Shape
-{x`
+{
 	public void area()
 	{
 		System.out.println("Find area:");
