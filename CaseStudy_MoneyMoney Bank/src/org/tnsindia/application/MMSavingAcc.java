@@ -5,9 +5,9 @@ import org.tnsindia.framework.SavingAcc;
 public class MMSavingAcc extends SavingAcc 
 {
 	// Constructor
-	public MMSavingAcc(int AccNo, String AccNm, float AccBal, boolean isPrime) 
+	public MMSavingAcc(int AccNo, String AccNm, float AccBal, boolean isSalaried) 
 	{
-		super(AccNo, AccNm, AccBal, isPrime);
+		super(AccNo, AccNm, AccBal, isSalaried);
 	}
 	
 	//ToString 
